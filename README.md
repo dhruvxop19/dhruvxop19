@@ -1,4 +1,4 @@
-# Dhruv | Fullstack & Blockchain Developer 🚀 | Student Pilot ✈️
+# Dhruv | Fullstack & Blockchain Developer 🚀 
 
 <div align="center">
   <img src="https://github.com/dhruvxop19.png" width="120" style="border-radius: 50%" alt="Dhruv's avatar" />
