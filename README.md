@@ -36,7 +36,7 @@ I’m Dhruv, a first-year B.Tech student, passionate Fullstack & Blockchain Deve
 ## 🌟 Highlight Project
 
 - [Coursofy Course Selling App](https://github.com/dhruvxop19/coursofy-course-selling-app)  
-  <sub>Modern platform for selling online courses. Built with Next.js, Express, MongoDB & more!</sub>
+  <sub> Backend Of Modern platform for selling online courses. Built with JavaScript, Express, MongoDB & more!</sub>
 
 ---
 
