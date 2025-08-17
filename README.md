@@ -33,10 +33,13 @@ I’m Dhruv, a first-year B.Tech student, passionate Fullstack & Blockchain Deve
 
 ---
 
-## 🌟 Highlight Project
+## 🌟 Highlight Projects
+
+- [Quirky AI Chat App](https://github.com/dhruvxop19/quirky-chat-assistant)  
+  <sub> A fun AI-powered chat app with real-time messaging, AI writing assistant, and live web search. Built with React, Node.js, Stream Chat, and OpenAI/Groq! </sub>
 
 - [Coursofy Course Selling App](https://github.com/dhruvxop19/coursofy-course-selling-app)  
-  <sub> Backend Of Modern platform for selling online courses. Built with JavaScript, Express, MongoDB & more!</sub>
+  <sub> Backend of a modern platform for selling online courses. Built with JavaScript, Express, MongoDB & more!</sub>
 
 ---
 
@@ -51,8 +54,8 @@ I’m Dhruv, a first-year B.Tech student, passionate Fullstack & Blockchain Deve
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/dhruvieiei/)
-[![X (Twitter)](https://img.shields.io/badge/-X-black?logo=X&logoColor=white&style=for-the-badge)](https://x.com/StackDhruv)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/dhruvieiei/)  
+[![X (Twitter)](https://img.shields.io/badge/-X-black?logo=X&logoColor=white&style=for-the-badge)](https://x.com/StackDhruv)  
 [![Medium](https://img.shields.io/badge/-Medium-12100E?logo=medium&logoColor=white&style=for-the-badge)](https://medium.com/@dhruvieiei)
 
 ---
