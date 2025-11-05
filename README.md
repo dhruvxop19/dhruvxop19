@@ -35,8 +35,14 @@ I’m Dhruv, a first-year B.Tech student, passionate Fullstack & Blockchain Deve
 
 ## 🌟 Highlight Projects
 
+- [EscrowX: Decentralized Freelance Marketplace](https://github.com/dhruvxop19/EscrowX)  
+  <sub> Decentralized freelance platform built on Stellar, featuring trustless escrow, DAO-based dispute resolution, and zero platform fees. Empowering global freelancers with transparency, instant payments, and community governance via blockchain. </sub>
+
+- [Farm-Stack: Decentralized Supply Chain Platform](https://github.com/dhruvxop19/farmstack-ai)  
+  <sub> Blockchain-enabled platform ensuring transparency between farmers and buyers. Implements end-to-end product tracking and secure transactions across the agricultural supply chain—making sure every step, from farm to table, is fully traceable and trustless. </sub>
+
 - [Quirky AI Chat App](https://github.com/dhruvxop19/quirky-chat-assistant)  
-  <sub> A fun AI-powered chat app with real-time messaging, AI writing assistant, and live web search. Built with React, Node.js, Stream Chat, and OpenAI/Groq! </sub>
+  <sub> A fun AI-powered chat app with real-time messaging, AI writing assistant, and live web search. Built with React, Node.js, Stream Chat, and OpenAI/Groq!</sub>
 
 - [Coursofy Course Selling App](https://github.com/dhruvxop19/coursofy-course-selling-app)  
   <sub> Backend of a modern platform for selling online courses. Built with JavaScript, Express, MongoDB & more!</sub>
@@ -49,6 +55,18 @@ I’m Dhruv, a first-year B.Tech student, passionate Fullstack & Blockchain Deve
 - 🏀 Basketball enthusiast
 - 🔗 Blockchain Developer
 - 📚 Always learning, always building!
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dhruvxop19&show_icons=true&theme=radical" alt="Dhruv's GitHub stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvxop19&theme=radical" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhruvxop19&theme=radical" alt="GitHub Profile Details" />
+</div>
 
 ---
 
