@@ -63,7 +63,7 @@ I’m Dhruv, a first-year B.Tech student, passionate Fullstack & Blockchain Deve
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dhruvxop19&show_icons=true&theme=radical" alt="Dhruv's GitHub stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvxop19&theme=radical" alt="GitHub Streak" />
+ 
   <br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhruvxop19&theme=radical" alt="GitHub Profile Details" />
 </div>
