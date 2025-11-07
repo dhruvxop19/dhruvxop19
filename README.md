@@ -50,8 +50,8 @@ I love building web apps, exploring decentralized tech, flying planes, and shoot
 
 <div align="center">
 
-  <!-- Main Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=dhruvxop19&show_icons=true&theme=tokyonight&count_private=true" alt="Dhruv's GitHub stats" />
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=dhruvxop19&show_icons=true&count_private=true&theme=tokyonight" alt="Dhruv's GitHub stats" />
 
   <br/><br/>
 
@@ -60,8 +60,8 @@ I love building web apps, exploring decentralized tech, flying planes, and shoot
 
   <br/><br/>
 
-  <!-- Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhruvxop19&theme=react-dark&hide_border=true&area=true" alt="Dhruv's Activity Graph" />
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhruvxop19&bg_color=0d1117&color=70a5fd&line=38bdae&point=ffffff&area=true&hide_border=true" alt="Dhruv's GitHub Activity Graph" />
 
 </div>
 
