@@ -5,7 +5,7 @@
 <h1>Dhruv</h1>
 
 <p>
-  <b>Fullstack & Blockchain Developer</b> &nbsp;·&nbsp; <b>3× Hackathon Winner</b> &nbsp;·&nbsp; <b>Student Pilot ✈️</b>
+  <b>Fullstack & Blockchain Developer</b> &nbsp;·&nbsp; <b>6× Hackathon Winner</b> &nbsp;·&nbsp; <b>Student Pilot ✈️</b>
 </p>
 
 <p>
