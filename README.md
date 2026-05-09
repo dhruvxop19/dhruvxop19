@@ -30,8 +30,8 @@ First-year B.Tech student building at the intersection of **Web3, AI & full-stac
 Shipped **40+ freelance projects**, won **3 hackathons**, and already hold real industry experience — all in year one.
 
 - 🛠 **Founding Engineer** @ Rivera Labs
-- 💼 **SDE Intern** @ Oasiz Game Studio
-- 🏆 **3× Hackathon Winner**
+- 💼 **SDE ** @ Oasiz Game Studio
+- 🏆 **6× Hackathon Winner**
 - 🛫 Student Pilot &nbsp;|&nbsp; 🏀 Basketball Enthusiast
 
 ---
